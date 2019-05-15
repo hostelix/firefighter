@@ -1,6 +1,6 @@
-# firefighter
+# Firefighter :fire:
 
-A new Flutter package project.
+ODM for Firestore
 
 ## Getting Started
 
