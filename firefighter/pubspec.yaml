@@ -1,0 +1,13 @@
+name: firefighter
+description: Firefighter is ODM for Firestore Dart.
+version: 1.0.0
+author: Israel Lugo <hostelixisrael@gmail.com>
+homepage: https://github.com/BMKeros/firefighter
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+

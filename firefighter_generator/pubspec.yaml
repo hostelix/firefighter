@@ -1,0 +1,18 @@
+name: firefighter_generator
+description: Firefighter code generator Dart.
+version: 1.0.0
+author: Israel Lugo <hostelixisrael@gmail.com>
+homepage: https://github.com/BMKeros/firefighter
+
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  source_gen:
+  firefighter:
+    path: ../firefighter/
+
+dev_dependencies:
+  build_runner: 1.7.4
+
